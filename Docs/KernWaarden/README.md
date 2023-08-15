@@ -1,4 +1,4 @@
-## Kernwaarden van de Piratenpartij: [Onze Schat 💎](Kernwaarden.md)
+## Kernwaarden van de Piratenpartij: [Onze Schat 💎](README.md)
 
 - 🧠 [Kritisch denken en feitelijk onderbouwd beleid](KritischDenken.md)
 - 🗽 [Burgerrechten](Burgerrechten.md)
