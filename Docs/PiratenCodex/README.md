@@ -1,4 +1,4 @@
-## De Piratencodex: [Onze Navigatiekaart 🗺️](PiratenCodex/README.md)
+## De Piratencodex: [Onze Navigatiekaart 🗺️](README.md)
 
 - 🏴‍☠️ [Vrijheid](Docs/PiratenCodex/Vrijheid.md): Piraten zijn onafhankelijk en autonoom, en strijden voor de vrijheid van meningsuiting.
 - 🛡️ [Privacy](Docs/PiratenCodex/Privacy.md): Piraten verzetten zich tegen de controlestaat en beschermen het recht op privacy.
