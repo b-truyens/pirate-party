@@ -11,3 +11,7 @@ We trekken ten strijde tegen corruptie, ongelijkheid en onderdrukking. We vechte
 ⚓ **Wij zijn hier, wij zijn nu, en wij zijn de verandering.** ⚓
 
 We nodigen je uit om je bij ons aan te sluiten, om deel te worden van deze spannende reis. Hijs de zeilen, maatjes, en sluit je aan bij ons avontuur. De wereld wacht op ons, en we zullen niet falen.
+
+- [Piratenpartij](../Piratenpartij.md): Informatie over ons vaartuig en onze bemanning.
+- [Piratencodex](../Piratencodex/Piratencodex.md): Onze gids en navigatiekaart, inclusief principes zoals vrijheid, privacy en integriteit.
+- [Kernwaarden](../Kernwaarden/Kernwaarden.md): Onze schat, bestaande uit waarden en principes.
