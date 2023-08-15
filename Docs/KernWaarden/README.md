@@ -6,6 +6,6 @@
 - 👁️ [Privacy voor burgers](PrivacyVoorBurgers.md)
 - 🏛️ [Transparantie van overheden](TransparantieVanOverheden.md)
 - 📢 [Informatievrijheid en vrijheid van meningsuiting](Informatievrijheid.md)
-- 🍽️ [Het recht op een waardig leven](RechtOpEenWaardigLeven.md)
-- 🔄 [De deelcultuur](DeDeelcultuur.md)
+- 🍽️ [Het recht op een waardig leven](RechtOpWaardigLeven.md)
+- 🔄 [De deelcultuur](Deelcultuur.md)
 - 🌿 [Duurzaamheid als prioriteit](DuurzaamheidAlsPrioriteit.md)
