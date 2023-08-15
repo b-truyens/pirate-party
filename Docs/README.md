@@ -6,7 +6,7 @@ Welcome to the documentation directory for the Pirate Party. Here you'll find de
 
 - [Piratenmanifesto](Piratenmanifesto.md): An overview of our plea for change and adventure.
 - [Piratenpartij](Piratenpartij.md): Information about our vessel and crew.
-- [Piratencodex](Piratencodex/): Our guide and navigation map, including principles like freedom, privacy, and integrity.
+- [Piratencodex](Piratencodex.md): Our guide and navigation map, including principles like freedom, privacy, and integrity.
 - [Kernwaarden](Kernwaarden.md): Our treasure, consisting of values and principles.
 - [Slotwoord](Slotwoord.md): Our closing words, a call to action.
 
