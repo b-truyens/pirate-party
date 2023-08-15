@@ -1,11 +1,11 @@
-## Kernwaarden van de Piratenpartij: [Onze Schat 💎](Kernwaarden/README.md)
+## Kernwaarden van de Piratenpartij: [Onze Schat 💎](KernWaarden/README.md)
 Onze schat bestaat niet uit materiële rijkdom, maar uit waarden en principes. Wij strijden voor:
-- 🧠 Kritisch denken en feitelijk onderbouwd beleid
-- 🗽 Burgerrechten
-- 🗳️ Directe democratie en zelfbeschikkingsrecht
-- 👁️ Privacy voor burgers
-- 🏛️ Transparantie van overheden
-- 📢 Informatievrijheid en vrijheid van meningsuiting
-- 🍽️ Het recht op een waardig leven
-- 🔄 De deelcultuur
-- 🌿 Duurzaamheid als prioriteit
+- 🧠 [Kritisch denken en feitelijk onderbouwd beleid](Docs/KernWaarden/KritischDenken.md)
+- 🗽 [Burgerrechten](Docs/KernWaarden/Burgerrechten.md)
+- 🗳️ [Directe democratie en zelfbeschikkingsrecht](Docs/KernWaarden/DirecteDemocratie.md)
+- 👁️ [Privacy voor burgers](Docs/KernWaarden/PrivacyVoorBurgers.md)
+- 🏛️ [Transparantie van overheden](Docs/KernWaarden/TransparantieVanOverheden.md)
+- 📢 [Informatievrijheid en vrijheid van meningsuiting](Docs/KernWaarden/Informatievrijheid.md)
+- 🍽️ [Het recht op een waardig leven](Docs/KernWaarden/RechtOpEenWaardigLeven.md)
+- 🔄 [De deelcultuur](Docs/KernWaarden/DeDeelcultuur.md)
+- 🌿 [Duurzaamheid als prioriteit](Docs/KernWaarden/DuurzaamheidAlsPrioriteit.md)
