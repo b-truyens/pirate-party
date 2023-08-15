@@ -4,7 +4,7 @@ Welcome to the documentation directory for the Pirate Party. Here you'll find de
 
 ## Contents
 
-- [Piratenmanifesto](Piratenmanifesto.md): An overview of our plea for change and adventure.
+- [Inleiding](Inleiding.md): An overview of our plea for change and adventure.
 - [Piratenpartij](Piratenpartij.md): Information about our vessel and crew.
 - [Piratencodex](Piratencodex.md): Our guide and navigation map, including principles like freedom, privacy, and integrity.
 - [Kernwaarden](Kernwaarden.md): Our treasure, consisting of values and principles.
