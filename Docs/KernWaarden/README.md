@@ -1,0 +1,11 @@
+## Kernwaarden van de Piratenpartij: [Onze Schat 💎](Kernwaarden.md)
+
+- 🧠 [Kritisch denken en feitelijk onderbouwd beleid](KritischDenken.md)
+- 🗽 [Burgerrechten](Burgerrechten.md)
+- 🗳️ [Directe democratie en zelfbeschikkingsrecht](DirecteDemocratie.md)
+- 👁️ [Privacy voor burgers](PrivacyVoorBurgers.md)
+- 🏛️ [Transparantie van overheden](TransparantieVanOverheden.md)
+- 📢 [Informatievrijheid en vrijheid van meningsuiting](Informatievrijheid.md)
+- 🍽️ [Het recht op een waardig leven](RechtOpEenWaardigLeven.md)
+- 🔄 [De deelcultuur](DeDeelcultuur.md)
+- 🌿 [Duurzaamheid als prioriteit](DuurzaamheidAlsPrioriteit.md)
