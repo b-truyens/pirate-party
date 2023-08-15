@@ -1,4 +1,4 @@
-# pirate-party
+# 🏴‍☠️ De Vlaamse Piraten Partij, arrr!
 &lt; - { [Left Out Legion](https://github.com/b-truyens/Left-Out-Legion) } - > &lt; -- [ est. 2023 ] -- >  [ WarTime Division ] - >  @acid-apostle &lt; - [ Political Division ] - >
 
 
