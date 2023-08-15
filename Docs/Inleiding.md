@@ -1,4 +1,4 @@
-## Inleiding: [De Wind van Verandering 🌬️](Docs/Inleiding.md)
+## Inleiding: [De Wind van Verandering 🌬️](Inleiding.md)
 
 🏴‍☠️ **Wij, de dappere leden van de Piratenpartij, zijn geen conventionele politici. Wij zijn avonturiers, vernieuwers en visionairs.** 🏴‍☠️
 

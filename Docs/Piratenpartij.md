@@ -1,2 +1,2 @@
-## 🚢 [De Piratenpartij: Ons Vaartuig](Docs/Piratenpartij.md)
+## 🚢 [De Piratenpartij: Ons Vaartuig](Piratenpartij.md)
 De Piratenpartij is niet zomaar een politieke partij; het is ons vaartuig, onze bemanning, onze manier om de woelige politieke wateren te navigeren. Wij zijn een samenwerkingsverband van moedige individuen die leiderschap willen tonen. Wij strijden voor rechtvaardige zaken zoals stadslandbouw 🌾, natuurbescherming 🌳 en een eerlijke economie 💰. Wij zijn waakzaam, want macht kan corrumperen, maar wij blijven trouw aan onze principes. Onze koers is helder, onze missie is nobel, en onze vastberadenheid is onwankelbaar. Hijs de zeilen, maatjes, want het avontuur roept! 🏴‍☠️
